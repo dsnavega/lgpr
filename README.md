@@ -13,7 +13,7 @@ Install
 
 ``` r
 # install.packages("devtools")
-devtools::install_github(repo = "dsnavega/lpgr")  
+devtools::install_github(repo = "dsnavega/lgpr")  
 ```
 
 Usage
